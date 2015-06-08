@@ -10,7 +10,7 @@ and [Bootstrap](http://getbootstrap.com/).
 Usage
 -----
 
-To view the site, [click here](j6turner.github.io). 
+To view the site, [click here](http://j6turner.github.io/). 
 
 Known Bugs
 -----
