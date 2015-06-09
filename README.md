@@ -3,14 +3,13 @@ j6turner.github.io
 
 
 
-Features include [jQuery](https://jquery.com/)
-and [Bootstrap](http://getbootstrap.com/).
+Features include [Bootstrap](http://getbootstrap.com/).
 
 
 Usage
 -----
 
-To view the site, [click here](j6turner.github.io). 
+To view the site, [click here](http://j6turner.github.io/).
 
 Known Bugs
 -----
