@@ -1,8 +1,6 @@
 j6turner.github.io
 ============
 
-
-
 Features include [Bootstrap](http://getbootstrap.com/).
 
 
@@ -10,6 +8,7 @@ Usage
 -----
 
 To view the site, [click here](http://j6turner.github.io/).
+
 
 Known Bugs
 -----
