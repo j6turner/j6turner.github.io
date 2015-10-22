@@ -40,11 +40,12 @@ h2 {
 
 h3 {
   font-family: Times, Helvetica;
-  color: #C0C0C0;
+  color: #FFFFFF;
 }
 
 h4 {
   font-family: Times, Helvetica;
+  color: #FFFFFF;
 }
 
 h5 {
@@ -58,6 +59,11 @@ h6 {
 img {
   border: 2px solid transparent;
   border-radius: 5px;
+}
+
+p {
+  font-family: Courier, Helvetica;
+  color: #FFFFFF;
 }
 
 .btn {
