@@ -23,7 +23,7 @@ body {
   -o-background-size: cover;
   -webkit-background-size: cover;
   opacity: 1.4;
-  text-align: center;
+  text-align: justify;
   font-family: Times, Helvetica;
   background-color: #C0C0C0;
   cursor: url('../img/cursor.png'), default;
@@ -65,6 +65,7 @@ img {
 p {
   font-family: Courier, Helvetica;
   color: #F62871;
+  text-align: justify;
 }
 
 .btn {
@@ -105,6 +106,7 @@ p {
 }
 
 .row-fluid {
+  text-align: justify;
   background-color: #C0C0C0;
   opacity: 0.9;
   border: 2px solid transparent;
@@ -114,5 +116,5 @@ p {
 }
 
 .samples {
-  text-align: center;
+  text-align: justify;
 }
