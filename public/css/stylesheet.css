@@ -22,7 +22,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
-  opacity: 1.2;
+  opacity: 1.4;
   text-align: center;
   font-family: Times, Helvetica;
   background-color: #C0C0C0;
@@ -31,7 +31,7 @@ body {
 
 h1 {
   font-family: Georgia, Helvetica;
-  color:#FEA401;
+  color: #12E3C8;
   text-align: center;
 }
 
@@ -41,7 +41,7 @@ h2 {
 
 h3 {
   font-family: Times, Helvetica;
-  color:#FEA401;
+  color: #12E3C8;
 }
 
 h4 {
@@ -64,7 +64,7 @@ img {
 
 p {
   font-family: Courier, Helvetica;
-  color:#FEA401;
+  color: #F62871;
 }
 
 .btn {
@@ -97,7 +97,7 @@ p {
 
 .row-fluid {
   background-color: #C0C0C0;
-  opacity: 0.8;
+  opacity: 0.9;
   border: 2px solid transparent;
   border-radius: 5px;
   padding: 5px;
