@@ -81,6 +81,15 @@ p {
   cursor: url('../img/cursor.png'), default;
 }
 
+.col-md-6 {
+  background-color: #C0C0C0;
+  opacity: 0.9;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
 .logo {
   padding-top: 7px;
   position: relative;
