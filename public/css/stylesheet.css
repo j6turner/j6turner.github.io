@@ -64,7 +64,7 @@ img {
 
 p {
   font-family: Courier, Helvetica;
-  color: #000000;
+  color:#FEA401;
 }
 
 .btn {
@@ -79,6 +79,15 @@ p {
   background-color: #000000;
   color: #FFFFFF;
   cursor: url('../img/cursor.png'), default;
+}
+
+.btn btn-default {
+  font-family: Verdana, Helvetica;
+  background-color: #FF2262;
+}
+
+.btn btn-info {
+  background-color: #3FE9DF;
 }
 
 .logo {
