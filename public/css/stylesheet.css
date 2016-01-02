@@ -85,7 +85,7 @@ p {
 
 .col-md-6 {
   background-color: #C0C0C0;
-  opacity: 0.9;
+  opacity: 0.7;
   border: 2px solid transparent;
   border-radius: 5px;
   padding: 5px;
@@ -127,10 +127,10 @@ p {
 .row-fluid {
   text-align: justify;
   background-color: #C0C0C0;
-  opacity: 0.9;
+  opacity: 0.7;
   border: 2px solid transparent;
   border-radius: 5px;
-  padding: 5px;
+  padding: 25px;
   margin: 10px;
 }
 
