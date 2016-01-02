@@ -65,7 +65,7 @@ img {
 
 p {
   font-family: Courier, Helvetica;
-  color: #F62871;
+  color: #000000;
   text-align: justify;
 }
 
@@ -104,6 +104,24 @@ p {
   text-align: center;
   margin-left: 1px;
   margin-right: 1px;
+}
+
+.para01 {
+  font-family: Courier, Helvetica;
+  color: #F62871;
+  text-align: justify;
+}
+
+.para02 {
+  font-family: Courier, Helvetica;
+  color: #51BDA4;
+  text-align: justify;
+}
+
+.para03 {
+  font-family: Courier, Helvetica;
+  color: #F27F33;
+  text-align: justify;
 }
 
 .row-fluid {
