@@ -84,7 +84,7 @@ p {
 }
 
 .col-md-6 {
-  background-color: #C0C0C0;
+  background-color: #525050;
   opacity: 0.7;
   border: 2px solid transparent;
   border-radius: 5px;
@@ -93,6 +93,7 @@ p {
 }
 
 .logo {
+  opacity: 0.7;
   padding-top: 7px;
   position: relative;
 }
@@ -126,7 +127,7 @@ p {
 
 .row-fluid {
   text-align: justify;
-  background-color: #C0C0C0;
+  background-color: #525050;
   opacity: 0.7;
   border: 2px solid transparent;
   border-radius: 5px;
