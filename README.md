@@ -13,7 +13,7 @@ To view the site, [click here](http://j6turner.github.io/).
 Known Bugs
 -----
 
-None as of 2015-06-07.
+Not supported by some browsers. Using Chrome is recommended.
 
 
 Author
