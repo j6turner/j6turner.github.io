@@ -37,10 +37,12 @@ h1 {
 
 h2 {
   font-family: Times, Helvetica;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 h3 {
-  font-family: Verdana, Helvetica;
+  font-family: Courier, Helvetica;
   color: #FFFFFF;
   text-align: center;
 }
@@ -52,10 +54,14 @@ h4 {
 
 h5 {
   font-family: Times, Helvetica;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 h6 {
   font-family: Times, Helvetica;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 img {
