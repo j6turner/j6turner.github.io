@@ -89,7 +89,7 @@ p {
   cursor: url('../img/cursor.png'), default;
 }
 
-.col-md-6 {
+.col-md-9 {
   background-color: #525050;
   opacity: 0.7;
   border: 2px solid transparent;
